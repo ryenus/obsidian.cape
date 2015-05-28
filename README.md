@@ -1,0 +1,2 @@
+# obsidian.cape
+for Mousecape
